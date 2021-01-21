@@ -24,7 +24,7 @@ Youtube video will be uploaded <a href="https://#" target="_blank">soon</a>
 
 
 # Related videos you should check
-<a href="https://youtu.be/ovZ4dh1SThI" target="_blank">Proxy-chains Part 2</a>
+<a href="https://youtu.be/ovZ4dh1SThI" target="_blank">Proxy-chains Part 1</a>
 
 <a href="https://youtu.be/6aS8-vwG7Pg" target="_blank">Proxy-chains Part 2</a>
 
