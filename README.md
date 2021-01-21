@@ -18,7 +18,7 @@ Hope you know that
 
 <a href="https://raw.githubusercontent.com/efxtv/TorServiceFirefoxNetwork/main/Run.sh">IP CHANGER SCRIPT</a>
 
-<a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html">KNOW HOW TO USE THEM</a> and get all the commands access.
+configur firefox with tor proxy + quick IP changer <a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html">You should visit Uk2blogger</a> and get all the commands to configuration the required changes on Firefox.
 
 Youtube video will be uploaded <a href="https://#">soon</a>
 
