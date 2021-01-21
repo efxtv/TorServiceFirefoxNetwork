@@ -15,4 +15,10 @@ $ sudo apt install tor
 
 #Install firefox
 Hope you know that
-<a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html">READ MORE...</a> and get all the commands access.
+
+<a href="https://raw.githubusercontent.com/efxtv/TorServiceFirefoxNetwork/main/Run.sh">IP CHANGER SCRIPT</a>
+
+<a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html">KNOW HOW TO USE THEM</a> and get all the commands access.
+
+Youtube video will be uploaded <a href="https://#">soon</a>
+
