@@ -20,7 +20,7 @@ Hope you know that
 
 Configur firefox with tor proxy + quick IP changer <a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html" target="_blank">You should visit Uk2blogger</a> and get all the commands to configuration the required changes on Firefox.
 
-Youtube video will be uploaded <a href="https://#" target="_blank">soon</a>
+Youtube video will be uploaded <a href="https://youtu.be/3dSSdt-r_yw" target="_blank">is here</a>
 
 
 # Related videos you should check
