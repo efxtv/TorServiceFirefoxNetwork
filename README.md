@@ -16,9 +16,27 @@ $ sudo apt install tor
 #Install firefox
 Hope you know that
 
-<a href="https://raw.githubusercontent.com/efxtv/TorServiceFirefoxNetwork/main/Run.sh">IP CHANGER SCRIPT</a>
+<a href="https://raw.githubusercontent.com/efxtv/TorServiceFirefoxNetwork/main/Run.sh" target="_blank">IP CHANGER SCRIPT</a>
 
-configur firefox with tor proxy + quick IP changer <a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html">You should visit Uk2blogger</a> and get all the commands to configuration the required changes on Firefox.
+configur firefox with tor proxy + quick IP changer <a href="https://uk2blogger.blogspot.com/2021/01/mozilla-firefox-proxy-settings-with-tor.html" target="_blank">You should visit Uk2blogger</a> and get all the commands to configuration the required changes on Firefox.
 
-Youtube video will be uploaded <a href="https://#">soon</a>
+Youtube video will be uploaded <a href="https://#" target="_blank">soon</a>
 
+
+# Related videos you should check
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
+
+<a href="http://www.example.com" target="_blank">Example Page</a>
