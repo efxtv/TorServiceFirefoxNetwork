@@ -33,6 +33,6 @@ Youtube video will be uploaded <a href="https://youtu.be/3dSSdt-r_yw" target="_b
 <a href="https://youtu.be/VlKZUs_Hf3c" target="_blank">Proxy-chains Part 4</a>
 
 ---------------------------------------
-India :  7503453371@ybl<br />
+
 <a href="https://paypal.me/efxtv"><img src="https://raw.githubusercontent.com/efxtv/efxtv/master/assets/donate-efx-tv.png" alt="Paypal" width="125" height="40"></a>
 ---------------------------------------
